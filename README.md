@@ -109,3 +109,7 @@ The high-res window stats (min/max current, drop-event count) in the payload are
 ## Credits
 
 The hardware design — the P1-to-UART interface circuit and overall CubeCell wiring — is essentially a copy of [maxcharlier/p1-meter-lorawan](https://github.com/maxcharlier/p1-meter-lorawan). This project builds on that hardware groundwork, adapting the firmware for the Flexy F2 meter's payload and adding the high-resolution appliance-event detection logic. Many thanks to maxcharlier for the original work.
+
+## Useful links
+
+https://icube.ch/obishelper/obishelper.html
